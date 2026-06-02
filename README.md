@@ -90,5 +90,5 @@ with 4 features: sepal length, sepal width, petal length, and petal width.
 
 ## Author
 
-**Emily** — [@luislhdev](https://github.com/luislhdev)  
+**Luis** — [@luislhdev](https://github.com/luislhdev)  
 Part of an MLOps-focused portfolio. More projects coming soon.
